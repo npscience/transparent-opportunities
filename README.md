@@ -1,2 +1,2 @@
 # transparent-opportunities
-Sharing my applications for opportunities (&amp; results too), wherever possible
+Sharing my applications for event participation and talks, professional positions and roles, and other opportunities in open science, wherever possible. Because transparency aids accountability and equity of access to opportunity. I hope to keep this up-to-date with results too, either way -- ask me if you spot an entry missing an outcome (that you might reasonably expect to have one by that time).
