@@ -1,6 +1,7 @@
 # My application for the [eLife Sprint 2019](https://sprint.elifesciences.org/)
 
 - *Submitted May 29, 2019*
+- *STATUS: Accepted*
 - *Note COI disclosed in last question*
 
 ## Application (main body)
