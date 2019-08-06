@@ -1,6 +1,7 @@
 # My application for the FORCE11 2019 conference ([FORCE2019](https://www.force11.org/article/proposals-now-invited-force2019))
 
 *Submitted June 2, 2019*
+*Accepted & announced, August 2019*
 
 ## What areas does your proposal cover? 
 
